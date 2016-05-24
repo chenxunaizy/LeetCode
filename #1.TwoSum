@@ -40,5 +40,3 @@ class Solution:
             return self.finalRes
         else:
             return "No matching numbers"
-instance = Solution()
-print(instance.twoSum([-3,0,1,0],0))
